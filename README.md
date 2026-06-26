@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Ethan Hughes 👋
 
-<!--
-**ethanhughes4/ethanhughes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with a passion for transforming raw data into meaningful insights. I'm currently building a portfolio of end-to-end analytics projects using SQL, PostgreSQL, Power BI and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- SQL
+- PostgreSQL
+- Power BI
+- Power Query
+- DAX
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🏎 Formula 1 Analytics Dashboard
+
+Historical Formula 1 data analysed using SQL and visualised in Power BI with interactive dashboards and drill-through functionality.
+
+### 🛒 Customer Behaviour Analysis
+
+Customer purchasing behaviour analysed using SQL, Python and Power BI.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Advanced DAX
+- Python for Data Analysis
+- Statistics
+
+---
+
+## 📫 Connect With Me
+
+- Email: ethanhughes234@gmail.com
